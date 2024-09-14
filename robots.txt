@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kokciu.github.io/mSc/sitemap.mSc.gz
